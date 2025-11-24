@@ -68,3 +68,4 @@ if __name__ == "__main__":
         port=port,
         reload=settings.ENVIRONMENT == "development"
     )
+# Force rebuild Mon Nov 24 03:22:28 PM CET 2025
